@@ -6,7 +6,7 @@ import 'package:flutter_blue/flutter_blue.dart';
 import 'connectWifi_page.dart';
 // import 'package:flutter_qc/page/connectWifi_page.dart';
 
-const String GUID = '0000FFFF-0000-1000-8000-00805F9B34FB';
+const String GUID = '0000FFFF-0000-1000-8000-00805F9XXXXX';
 
 class BluetoothPage extends StatefulWidget {
   @override
